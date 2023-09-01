@@ -1,6 +1,5 @@
 # rollenspiele_deu
-Liste deutschsprachiger Rollenspiele
-CC-BY-SA
+Liste deutschsprachiger Rollenspiele, CC-BY.
 Dies ist eine chronologische Liste von Rollenspielen, die auf Deutsch veröffentlicht wurden. Sie befindet sich noch im Aufbau. Nähere Informationen stehen unter https://gespiele.hypotheses.org/listen/deutschsprachige-rollenspiele
 
 Hauptautor: Jonas Richter, 
